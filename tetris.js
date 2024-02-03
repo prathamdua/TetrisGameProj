@@ -249,7 +249,7 @@ function drawMainMenu(){
     };
     
     context.font = '18px Russo One';
-    context.fillText("Press Space to begin", canvas.width /2, canvas.height /1.8)
+    context.fillText("Press Spacebar to begin", canvas.width /2, canvas.height /1.8)
 }
 
 function drawMatrix(matrix, offset) {
